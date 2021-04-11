@@ -1,10 +1,9 @@
 # BankApi
 
 ## Project Definition:
-A banking API allows you to transfer money between two accounts. In this assignment, we want
-you to create / list accounts and use these accounts for money transfers. All accounts and
-transactions should be held in memory, no database implementation is required. Here are
-sample request/response values of transactions.
+A banking API allows you to transfer money between two accounts. 
+create / list accounts and use accounts for money transfers. 
+All accounts and transactions  held in memory, no database implementation.
 
 
 
