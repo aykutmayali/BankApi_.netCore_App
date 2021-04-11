@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace BankApi.Models
 {
     public class AccountingVM
-    {
-        public int Id { get; set; }
+    {        
         [Required]
         public int senderAccountNumber { get; set; }
         [Required]
